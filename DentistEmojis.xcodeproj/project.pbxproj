@@ -317,6 +317,7 @@
 				7C5517901E76221700861F43 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7C5517921E76221700861F43 /* Build configuration list for PBXNativeTarget "DentistEmojis" */ = {
 			isa = XCConfigurationList;
@@ -325,6 +326,7 @@
 				7C5517941E76221700861F43 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

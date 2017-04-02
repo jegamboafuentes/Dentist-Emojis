@@ -1,4 +1,141 @@
 {
+  "stickers" : [
+    {
+      "filename" : "cepillando.sticker"
+    },
+    {
+      "filename" : "con pinzas.sticker"
+    },
+    {
+      "filename" : "furioso.sticker"
+    },
+    {
+      "filename" : "saludo.sticker"
+    },
+    {
+      "filename" : "soy odontologo.sticker"
+    },
+    {
+      "filename" : "tengo tipodonto.sticker"
+    },
+    {
+      "filename" : "mujer furiosa.sticker"
+    },
+    {
+      "filename" : "mujer tipodonto.sticker"
+    },
+    {
+      "filename" : "soy odontologa mujer.sticker"
+    },
+    {
+      "filename" : "cepillando mujer cabello negro.sticker"
+    },
+    {
+      "filename" : "mujer furiosa-1.sticker"
+    },
+    {
+      "filename" : "saludando mujer.sticker"
+    },
+    {
+      "filename" : "soy odontologa.sticker"
+    },
+    {
+      "filename" : "cepillando-1.sticker"
+    },
+    {
+      "filename" : "equis.sticker"
+    },
+    {
+      "filename" : "furioso-1.sticker"
+    },
+    {
+      "filename" : "hello.sticker"
+    },
+    {
+      "filename" : "mujajaj.sticker"
+    },
+    {
+      "filename" : "pinzas.sticker"
+    },
+    {
+      "filename" : "soy odontologo-1.sticker"
+    },
+    {
+      "filename" : "what.sticker"
+    },
+    {
+      "filename" : "cepillando-2.sticker"
+    },
+    {
+      "filename" : "furioso-2.sticker"
+    },
+    {
+      "filename" : "indifirente.sticker"
+    },
+    {
+      "filename" : "pinzas-1.sticker"
+    },
+    {
+      "filename" : "saludo-1.sticker"
+    },
+    {
+      "filename" : "sorpresa.sticker"
+    },
+    {
+      "filename" : "soy odontologo-2.sticker"
+    },
+    {
+      "filename" : "tipodonto.sticker"
+    },
+    {
+      "filename" : "UNIDAD2.sticker"
+    },
+    {
+      "filename" : "cepillo.sticker"
+    },
+    {
+      "filename" : "Copia de toothpaste.sticker"
+    },
+    {
+      "filename" : "corona.sticker"
+    },
+    {
+      "filename" : "diente con caries.sticker"
+    },
+    {
+      "filename" : "diente destruido.sticker"
+    },
+    {
+      "filename" : "diente sano y feliz.sticker"
+    },
+    {
+      "filename" : "espejo.sticker"
+    },
+    {
+      "filename" : "guante.sticker"
+    },
+    {
+      "filename" : "hilo.sticker"
+    },
+    {
+      "filename" : "no se como.sticker"
+    },
+    {
+      "filename" : "pinza.sticker"
+    },
+    {
+      "filename" : "pinzas-2.sticker"
+    },
+    {
+      "filename" : "sonda.sticker"
+    },
+    {
+      "filename" : "tipodonto-1.sticker"
+    },
+    {
+      "filename" : "Mesa de trabajo 1618.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
